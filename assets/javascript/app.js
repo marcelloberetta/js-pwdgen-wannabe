@@ -8,6 +8,6 @@ var surname = prompt("Qual è il tuo cognome ?");
 //RICHIESTA COLORE PREFERITO
 var color = prompt("Qual è il tuo colore preferito ?")
 
-//
+//GENERAZIONE PASSWORD "INSICURA"
 document.getElementById("password").innerHTML = firstName + surname + color + 21;
 
